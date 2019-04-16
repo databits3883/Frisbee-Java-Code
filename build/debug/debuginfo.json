@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project FrisbeeBot)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "FrisbeeBot",
+    "language": "java"
+  }
+]
